@@ -25,36 +25,41 @@ Status: ???
   <Grid align="center">
   <p align="center">Ana Carolina 
   <br>
-  <a href="https://www.linkedin.com/in/carolina-tavares-71731b21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.github.com/anacahrowl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carolina-tavares-71731b21b/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://www.github.com/anacahrowl" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
+<a href="https://www.devmedia.com.br/perfil/???"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   </Grid>
   
    <Grid align="center">
    <p align="center">Layon Araujo
    <br>
-  <a href="https://www.linkedin.com/in/layon-silva-6a38231b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/layonss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/layon-silva-6a38231b1/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://github.com/layonss" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
+<a href="https://www.devmedia.com.br/perfil/layon-silva-de-araujo"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   </Grid>
   
    <Grid align="center">
    <p align="center">Silas Tavares
    <br>
-  <a href="https://www.linkedin.com/in/tavaressilas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/tavaressilas10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tavaressilas/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://github.com/tavaressilas10" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
+<a href="https://www.devmedia.com.br/perfil/silas-tavares-maciel"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   </Grid>
   
    <Grid align="center">
    <p align="center">Jose Luiz
    <br>
-  <a href="https://www.linkedin.com/in/jose-luiz-santos-a06873136" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.github.com/luizcaboclo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jose-luiz-santos-a06873136" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://www.github.com/luizcaboclo" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
+<a href="https://www.devmedia.com.br/perfil/???"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   </Grid>
 
   <Grid align="center">
   <p align="center">Gustavo Rocha
   <br>
-  <a href="https://www.linkedin.com/in/gustvtech" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.github.com/gustvtech" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustvtech" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://www.github.com/gustvtech" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
+<a href="https://www.devmedia.com.br/perfil/gustavo-rodrigues-rocha"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   </Grid>
   
   
