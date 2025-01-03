@@ -2,23 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Sejam+bem-vindos+a+nosso+portif%C3%B3lio!;Abaixo+informa%C3%A7%C3%B5es+sobre+os+projetos" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">• Projeto 1↴</h3>
+<h3 align="center">• Projeto 1:</h3>
 
 <p align="center">Descrição.
 <br/>
 <br>
 Status: ???
 </br>
-
-
-<h3 align="center">• Projeto 2↴</h3>
-
-<p align="center">Descrição
-<br/>
-<br>
-Status: ???
-</br>
-
   
 <h3 align="center">• Desenvolvedores(as):</h3>
   
@@ -63,7 +53,7 @@ Status: ???
   </Grid>
   
   
-<h3 align="center">• Tecnologias e frameworks utilizados ↴ 
+<h3 align="center">• Tecnologias e frameworks utilizados:
   
   <div style="display: inline_block"><br>
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -74,5 +64,4 @@ Status: ???
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
