@@ -102,6 +102,6 @@ Link: ???
 <br>
 <div align="center">
   <a href="https://github.com/cariocacoders">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cariocacoders&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cariocacoders&layout=compact&langs_count=7&theme="/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cariocascoders&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cariocascoders&layout=compact&langs_count=7&theme="/>
 </div>
