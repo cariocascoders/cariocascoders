@@ -31,7 +31,7 @@ Status: ???
   <Grid align="center">
   <p align="center">Gustavo Rocha
   <br>
-  <a href="https://www.linkedin.com/in/gustvtech" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/gustvtech/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://www.github.com/gustvtech" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
 <a href="https://www.devmedia.com.br/perfil/gustavo-rodrigues-rocha"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   </Grid>
@@ -47,7 +47,7 @@ Status: ???
    <Grid align="center">
    <p align="center">Jose Luiz
    <br>
-  <a href="https://www.linkedin.com/in/jose-luiz-santos-a06873136" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/jose-luiz-santos-a06873136/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://www.github.com/luizcaboclo" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
 <a href="https://www.devmedia.com.br/perfil/???"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
   </Grid>
@@ -55,7 +55,7 @@ Status: ???
   <Grid align="center">
   <p align="center">Amanda Rocha
   <br>
-  <a href="https://www.linkedin.com/in/amandarochadev" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/amandarochadev/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://www.github.com/seugirdorx" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
   
   
