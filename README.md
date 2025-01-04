@@ -37,7 +37,7 @@ Status: em planejamento 📝
 Link: ???
 </br>
   
-<h3 align="center">• Desenvolvedores(as):</h3>
+<h3 align="center">• Desenvolvedores:</h3>
   
   <Grid align="center">
   <p align="center">Ana Carolina 
