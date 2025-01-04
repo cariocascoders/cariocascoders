@@ -86,7 +86,7 @@ Link: ???
   <a href="https://www.github.com/seugirdorx" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
   
   
-<h3 align="center">• Tecnologias e frameworks:
+<h3 align="center">• Tecnologias e frameworks usados:
   
   <div style="display: inline_block"><br>
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
