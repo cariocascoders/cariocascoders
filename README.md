@@ -40,7 +40,7 @@ Link: ???
 <h3 align="center">• Desenvolvedores:</h3>
   
   <Grid align="center">
-  <p align="center">Ana Carolina 
+  <p align="center">Ana Carolina ♀️
   <br>
   <a href="https://www.linkedin.com/in/carolina-tavares-71731b21b/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://www.github.com/anacahrowl" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
@@ -48,7 +48,7 @@ Link: ???
   </Grid>
   
    <Grid align="center">
-   <p align="center">Layon Araujo
+   <p align="center">Layon Araujo ♂️
    <br>
   <a href="https://www.linkedin.com/in/layon-silva-6a38231b1/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://github.com/layonss" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
@@ -56,7 +56,7 @@ Link: ???
   </Grid>
 
   <Grid align="center">
-  <p align="center">Gustavo Rocha
+  <p align="center">Gustavo Rocha ♂️
   <br>
   <a href="https://www.linkedin.com/in/gustvtech/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://www.github.com/gustvtech" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
@@ -64,7 +64,7 @@ Link: ???
   </Grid>
   
    <Grid align="center">
-   <p align="center">Silas Tavares
+   <p align="center">Silas Tavares ♂️
    <br>
   <a href="https://www.linkedin.com/in/tavaressilas/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://github.com/tavaressilas10" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
@@ -72,7 +72,7 @@ Link: ???
   </Grid>
   
    <Grid align="center">
-   <p align="center">Jose Luiz
+   <p align="center">Jose Luiz ♂️
    <br>
   <a href="https://www.linkedin.com/in/jose-luiz-santos-a06873136/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://www.github.com/luizcaboclo" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
@@ -80,7 +80,7 @@ Link: ???
   </Grid>
 
   <Grid align="center">
-  <p align="center">Amanda Rocha
+  <p align="center">Amanda Rocha ♀️
   <br>
   <a href="https://www.linkedin.com/in/amandarochadev/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://www.github.com/seugirdorx" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
