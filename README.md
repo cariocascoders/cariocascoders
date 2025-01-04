@@ -7,7 +7,7 @@
 <p align="center">Descrição.
 <br/>
 <br>
-Status: ???
+Status: em planejamento 📝
 </br>
 <br>
 Link: ???
@@ -19,7 +19,7 @@ Link: ???
 <p align="center">Descrição.
 <br/>
 <br>
-Status: ???
+Status: em planejamento 📝
 </br>
 <br>
 Link: ???
@@ -31,7 +31,7 @@ Link: ???
 <p align="center">Descrição.
 <br/>
 <br>
-Status: ???
+Status: em planejamento 📝
 </br>
 <br>
 Link: ???
