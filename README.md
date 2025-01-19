@@ -12,51 +12,8 @@ Status: em desenvolvimento ⚙️
 <br>
 Link: https://ladydebug.onrender.com/
 </br>
-
-<h3 align="center">• Projeto 1: Front-end</h3>
-
-<p align="center">Descrição.
-<br/>
-<br>
-Status: em planejamento 📝
-</br>
-<br>
-Link: ???
-</br>
-
-
-<h3 align="center">• Projeto 2: Back-end</h3>
-
-<p align="center">Descrição.
-<br/>
-<br>
-Status: em planejamento 📝
-</br>
-<br>
-Link: ???
-</br>
-
-
-<h3 align="center">• Projeto 3: Full-Stack</h3>
-
-<p align="center">Descrição.
-<br/>
-<br>
-Status: em planejamento 📝
-</br>
-<br>
-Link: ???
-</br>
   
 <h3 align="center">• Desenvolvedores:</h3>
-  
-  <Grid align="center">
-  <p align="center">Ana Carolina 
-  <br>
-  <a href="https://www.linkedin.com/in/carolina-tavares-71731b21b/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
-  <a href="https://www.github.com/anacahrowl" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
-<a href="https://www.devmedia.com.br/perfil/???"><img alt="Devmedia" height="30" width="40" src="https://www.devmedia.com.br/imagens/fotoscolunistas/_20190416121326.png" target="_blank"><a/>
-  </Grid>
   
    <Grid align="center">
    <p align="center">Layon Araujo 
@@ -95,6 +52,13 @@ Link: ???
   <br>
   <a href="https://www.linkedin.com/in/amandarochadev/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
   <a href="https://www.github.com/seugirdorx" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
+
+ <Grid align="center">
+  <p align="center">Ana Carolina 
+  <br>
+  <a href="https://www.linkedin.com/in/carolina-tavares-71731b21b/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" height="30" width="40"></a>
+  <a href="https://www.github.com/anacahrowl" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" target="_blank" height="30" width="40"></a>
+  </Grid>
   
   
 <h3 align="center">• Tecnologias e frameworks usados:
